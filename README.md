@@ -1,4 +1,4 @@
-# ilmegafono
+# Il Megafono
 Il Megafono: la piattaforma open source di comunicazione tra cittadini e istituzioni
 
 È finalmente arrivato il momento di dare voce al popolo italiano! L'obiettivo di questo progetto è creare una piattaforma open source che metta in comunicazione le opinioni di ogni singolo cittadino con le istituzioni, partendo dal governo, fino al singolo municipio di ogni città, passando da tutti i livelli istituzionali, come regioni e province.
